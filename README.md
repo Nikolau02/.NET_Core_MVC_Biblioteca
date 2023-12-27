@@ -1,4 +1,4 @@
-# Biblioteca
+# .NET_Core_MVC_Biblioteca
 ![Badge de Encerrado](https://img.shields.io/badge/status-Encerrado-red)
 
 Repositório para o versionamento do sistema web "Biblioteca" destinado para a organização e locação de livros online.
